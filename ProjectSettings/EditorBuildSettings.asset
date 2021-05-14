@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Bill_SampleScene.unity
+    guid: 65c56947d965e5c4a8264b7f36996fb0
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: ffeb3ed575c98744fbaf191eb0315cae
+  - enabled: 1
+    path: Assets/Scenes/Inventory.unity
+    guid: 0ff1ee01fa3b2084e8c0078ad3521024
+  - enabled: 1
+    path: Assets/Scenes/Skills.unity
+    guid: ab0e63d82fab8b01d8edd519417cfb7d
+  - enabled: 1
+    path: Assets/Scenes/PauseScreen.unity
+    guid: 11f69ab4f52e7324da0ab4aad594358f
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 96462623ee1471b488122b7c04dc8507
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 8f4204ae1c336da409038ef07f38d36f
+  - enabled: 1
+    path: Assets/Scenes/Room1.unity
+    guid: b1483998b2b668a4d8e17941e08f14bb
+  - enabled: 1
+    path: Assets/Scenes/boss_room_0.unity
+    guid: 6f93e9ba07c7c0c4a93554962469a6ec
+  - enabled: 1
+    path: Assets/Scenes/generic_shop1.unity
+    guid: 605138ea01f1474469e5b0afe29ac568
+  - enabled: 1
+    path: Assets/Scenes/generic_room_0.unity
+    guid: 8e4a3f524cb744c49b50177feb902783
+  - enabled: 1
+    path: Assets/Scenes/generic_room_1.unity
+    guid: c682b17b7b82efd43acc393095f8bb76
+  - enabled: 1
+    path: Assets/Scenes/generic_room_2.unity
+    guid: c192569e820f0494896d256669c43fae
+  - enabled: 1
+    path: Assets/Scenes/generic_room_3.unity
+    guid: 58c7304d0d79488458c0cad2dac716bf
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: 94127f9ff28130647b715217f7f64725
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 4c8d68f4848335c479247ab35c0f46d0
+  - enabled: 1
+    path: Assets/Scenes/generic_room_4.unity
+    guid: 47274f88faa29974a8ddd98048eabf08
+  - enabled: 1
+    path: Assets/Scenes/generic_room_5_1.unity
+    guid: 4a5620382fa1a564da42d835e58f0a14
+  - enabled: 1
+    path: Assets/Scenes/generic_room_6.unity
+    guid: 87fc5459bb4363d4190a10f873f63d2e
+  - enabled: 1
+    path: Assets/Scenes/generic_room_7.unity
+    guid: 3b84430346903d3458cdac97e7822ac7
+  - enabled: 1
+    path: Assets/Scenes/generic_room_8.unity
+    guid: daf5d1525df1fb844b598e2374240583
+  m_configObjects: {}
